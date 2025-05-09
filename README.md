@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm [Rojbin Ağtaş] 👋
 
-<!--
-**NewtCrowEdison/NewtCrowEdison** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full-Stack .NET Developer.
 
-Here are some ideas to get you started:
+My passion for the world of software has driven me to improve myself in the field of full-stack web development.  
+On the **frontend**, I design modern, user-friendly, and dynamic interfaces using **HTML5**, **CSS3**, **Bootstrap**, **JavaScript**, **React.js**, and **AJAX**.  
+On the **backend**, I build robust workflows using **C#**, **.NET Core**, and **MVC**, gaining experience in **API integrations** and **data management**.  
+I also work on **database management** using **MSSQL** and **Entity Framework**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech Stack:
+- Front-End: HTML, CSS, JavaScript, React.js, Bootstrap
+- Back-End: C#, ASP.NET Core MVC, Web API, Entity Framework
+- Database: SQL Server
+- Other: Git, Serilog, Unity (Game Dev)
+
+🎮 Hobbies:
+- Game development
+- Watching movies & TV series
+- Managing games
