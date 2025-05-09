@@ -1,4 +1,4 @@
-# Hi, I'm [Rojbin Ağtaş] 👋
+# Hi, I'm Rojbin Ağtaş 👋
 
 I'm a Full-Stack .NET Developer.
 
